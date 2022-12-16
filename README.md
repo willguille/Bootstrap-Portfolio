@@ -7,7 +7,7 @@ This is a proffesional portfolio built using bootsrap that showcases the works a
 
 ## Usage 
 
-Follow the [link](https://willguille.github.io/Bootstrap-Portfolio/) to see the final result of the code refactor.
+Follow the [link](https://willguille.github.io/Bootstrap-Portfolio/) to see the final result of the portfolio.
 ![Screenshot of the deployed website](images/screenshot-web-final.png)
 
 ## License
